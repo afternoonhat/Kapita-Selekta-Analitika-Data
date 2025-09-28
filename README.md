@@ -1,4 +1,6 @@
-# Tugas GitHub Saya
+# Tugas GitHub 1
+
+
 
 Repositori ini dibuat untuk tugas pertama mata kuliah Kapita Selekta Analitika Data.
 
